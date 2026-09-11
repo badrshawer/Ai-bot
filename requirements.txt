@@ -1,0 +1,8 @@
+python-telegram-bot==21.9
+anthropic>=0.40,<1.0
+openai>=1.55
+yt-dlp>=2024.12.13
+Pillow>=11.0
+pypdf>=5.1
+pdfplumber>=0.11
+pymupdf>=1.24
